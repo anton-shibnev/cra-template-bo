@@ -1,5 +1,7 @@
 {
   "name": "cra-template-bo",
+  "homepage": "https://github.com/shibnev/cra-template-bo",
+  "repository": "https://github.com/shibnev/cra-template-bo",
   "version": "1.0.1",
   "keywords": [
     "react",
